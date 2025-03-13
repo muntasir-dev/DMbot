@@ -19,7 +19,7 @@ const client = new Client({
 
 // Initialize the music player
 const player = new Player(client);
-player.extractors.loadDefault();
+player.extractors.loadMulti();
 
 client.once("ready", () => {
     console.log(`🎵 Music bot is online as ${client.user.tag}!`);
