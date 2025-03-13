@@ -74,4 +74,5 @@ client.on("messageCreate", async (message) => {
 });
 
 // Login the bot
-client.login("");
+client.login("MTM0OTI0NjcwMTM3Mzc1MTMzOA.GXZXEj.vX9WUWxG9iq-RJazCOXnG2qQm0gOU1InlIUpY4");
+// old token : MTM0OTYyOTE4NDY0NDg3ODM2Nw.Gglq5b.fVcIprfOLJRVgXXRynz15BsskRTniMxwhQR7c8
